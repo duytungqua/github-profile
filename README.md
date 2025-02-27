@@ -3,7 +3,7 @@
 <h3 align="center">### 🚀 Software Developer | Open Source Contributor | Tech Enthusiast  
 </h3>
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me: FB | LinkedIn</h3>
 <p align="left">
 </p>
 
