@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm davidduy</h1>
+<h1 align="center">Hi 👋, My name is Trinh Quang Duy, nickname is duytq</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
+<h3 align="center">### 🚀 Software Developer | Open Source Contributor | Tech Enthusiast  
+</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
